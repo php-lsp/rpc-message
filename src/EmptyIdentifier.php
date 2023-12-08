@@ -28,7 +28,7 @@ final class EmptyIdentifier implements IdInterface
             || $id->toPrimitive() === null;
     }
 
-    public function toPrimitive(): null
+    public function toPrimitive(): mixed
     {
         return null;
     }
