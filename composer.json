@@ -34,7 +34,7 @@
             "Lsp\\Message\\Tests\\": "tests"
         }
     },
-    "provides": {
+    "provide": {
         "php-lsp/rpc-message-contracts-implementation": "^1.0"
     },
     "scripts": {
